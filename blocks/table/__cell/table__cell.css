@@ -1,0 +1,6 @@
+.table__cell {
+  z-index: inherit;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
